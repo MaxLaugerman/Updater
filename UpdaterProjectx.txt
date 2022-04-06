@@ -1,0 +1,19 @@
+;aiu;
+
+[General]
+MessageTitle = Notification Title
+MessageBody = Notification Message
+MessageExpirationDate = 01/03/2022
+
+[Update]
+Name = Nutrition Solutions
+ProductVersion = 1.0.1.3
+URL = https://fsdiformulationclouddev.blob.core.windows.net/max-upgrade/_Test_WIX_Upgrade.exe
+Size = 114794869
+ReleaseDate = 01/03/2022
+SHA256 = 8A3759B7CD58AA6CD44D506711E50395959DBC075071AAD5D213CF5FD53E7E0E
+MD5 = 78439ca1607a352c866875dbdbbb8a9c
+ServerFileName = _Test_WIX_Upgrade.exe
+Flags = Critical|NoCache
+RegistryKey = HKUD\Software\Cargill Digital Solutions\Nutrition Solutions\Version
+Version = 1.0.1.3
